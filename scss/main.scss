@@ -1,0 +1,9 @@
+main {
+  display: grid;
+  justify-content: center;
+  background-color: black;
+  filter: alpha(opacity=70);
+  -moz-opacity: 0.7;
+  opacity: 0.7;
+  padding: 5px;
+}

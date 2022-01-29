@@ -1,0 +1,18 @@
+nav .nav-link {
+  color: black;
+  text-decoration: none; }
+
+nav .nav-link:hover {
+  color: yellow; }
+
+body.index {
+  background-image: url(../media/wallpaper-1.jpg);
+  background-attachment: fixed; }
+
+body.noQueda {
+  background-image: url(../media/wallpaper-2.jpg);
+  background-attachment: fixed; }
+
+body.lista {
+  background-image: url(../media/wallpaper-3.jpg);
+  background-attachment: fixed; }
